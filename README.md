@@ -71,7 +71,7 @@
 
 ## 📈 Stats :
 <p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xphantom-zk&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xphantom-zk&theme=tokyonight&starting_year=2019"/>
 </p>
 
 ## 
