@@ -88,17 +88,15 @@
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnapro&langs_count=10&count_private=true&layout=compact&theme=tokyonight"/></td>
-
 <td>
 
 ### :writing_hand: Recent article:
 <!-- BLOG-POST-LIST:START -->
-- [SQL COALESCE vs CASE: Why COALESCE is Better for Handling NULL Values](https://krishnakumar.hashnode.dev/sql-coalesce-vs-case-why-coalesce-is-better-for-handling-null-values)
-- [System Design: Load Balancing](https://krishnakumar.hashnode.dev/system-design-load-balancing)
-- [Scaling: Horizontal vs Vertical Scaling](https://krishnakumar.hashnode.dev/scaling-horizontal-vs-vertical-scaling)
-- [How to Implement User Authentication and Authorization with SpringBoot and JWT](https://krishnakumar.hashnode.dev/how-to-implement-user-authentication-and-authorization-with-springboot-and-jwt)
-- [A Beginner&#39;s Guide to ProcessBuilder in Java](https://krishnakumar.hashnode.dev/a-beginners-guide-to-processbuilder-in-java)
+* [A Complete Guide to Solana Development for Ethereum Developers](https://solana.com/developers/migrate-to-solana/complete-guide)
+* [12 Solidity Gas Optimization Techniques](https://www.alchemy.com/overviews/solidity-gas-optimization)
+* [What is a Cross Program Invocation (CPI) on Solana?](https://www.quicknode.com/guides/solana-development/anchor/what-are-cpis)
+* [Build Your First Solana Program with Anchor](https://solana.com/docs/intro/quick-start/build-first-program)
+* [Foundry – Solidity Tests, Fuzzing and Smart Contract Deployment](https://dev.to/abhikbanerjee99/foundry-solidity-tests-fuzzing-and-so-much-more-4i40)
 <!-- BLOG-POST-LIST:END -->
 </td>
 </tr>
