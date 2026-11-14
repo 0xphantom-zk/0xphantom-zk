@@ -78,18 +78,3 @@
 
 <!-- <p align="center"> -->
 
-<table>
-<tr>
-<td>
-
-### :writing_hand: Recent article:
-<!-- BLOG-POST-LIST:START -->
-* [A Complete Guide to Solana Development for Ethereum Developers](https://solana.com/developers/migrate-to-solana/complete-guide)
-* [12 Solidity Gas Optimization Techniques](https://www.alchemy.com/overviews/solidity-gas-optimization)
-* [What is a Cross Program Invocation (CPI) on Solana?](https://www.quicknode.com/guides/solana-development/anchor/what-are-cpis)
-* [Build Your First Solana Program with Anchor](https://solana.com/docs/intro/quick-start/build-first-program)
-* [Foundry – Solidity Tests, Fuzzing and Smart Contract Deployment](https://dev.to/abhikbanerjee99/foundry-solidity-tests-fuzzing-and-so-much-more-4i40)
-<!-- BLOG-POST-LIST:END -->
-</td>
-</tr>
-</table>
