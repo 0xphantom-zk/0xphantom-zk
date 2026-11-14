@@ -15,10 +15,10 @@
 ### About Me :
 
 <!--  I am a Software Engineer with 2+ years of experience in Backend development and Data Engineering. I have hands-on experience in building RESTFul API, WebSocket and Microservices. I currently work at <a href="https://www.asmaka.biz/">Asmaka Ventures</a> as a Software Engineer in the Data Engineering team.-->
-- 👩‍💻 Software Engineer @<a href="https://www.asmaka.biz/">Asmaka Ventures</a>
-- 3+ years of experience in Backend development and Data Engineering.
-- Building RESTFul API, WebSocket and Microservices.
-- Connect for collaboration on open-source projects.
+- 👻 Full-Stack Blockchain Engineer
+- 7+ years of experience in Smart Contract development and Web3 Infrastructure.
+- Building DeFi protocols, dApps, and Cross-Chain Bridges.
+- Connect for collaboration on open-source Web3 projects.
 
 <!--
 <table style="align-item: center">
@@ -39,14 +39,18 @@
 
 <!-- ### Languages and Tools : -->
 
+![Blockchaindotcom](https://img.shields.io/badge/blockchain-%232F3134.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-%23F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white)
+![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Ethers](https://img.shields.io/badge/ethers-%232535A0.svg?style=for-the-badge&logo=ethers&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/bitcoin-%232F3134.svg?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![Play Framework](https://img.shields.io/badge/Play_Framework-236D244?style=for-the-badge&logo=play-framework)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,10 +62,8 @@
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
  <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a> -->
 <!-- ### DevOps & Cloud Tools :
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"> </a> -->
