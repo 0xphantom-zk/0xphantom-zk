@@ -4,12 +4,6 @@
 
 <!-- <p align="center">
 
-<a href="https://www.linkedin.com/in/krishnakumar25/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
-<a href="https://twitter.com/krishnapro_">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="mailto:krishnachaurasia1998@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
-<a href="https://discordapp.com/users/Krishn#3230">![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)</a>
- <a href="https://krishnakumar.hashnode.dev/">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)</a>
- <a href="https://www.buymeacoffee.com/krishnapro"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=krishnapro&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" style="height: 30px !important; width: 150px !important;"/></a>
 </p> -->
 
 ### About Me :
@@ -77,9 +71,7 @@
 
 ## 📈 Stats :
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Krishnapro&count_private=true&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnapro&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xphantom-zk&theme=tokyonight"/>
 </p></br>
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Krishnapro.Krishnapro) -->
