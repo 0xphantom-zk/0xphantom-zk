@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👻 Gm, I'm [Your Name / Alias] — Solana & Phantom Builder</h1>
-  <p>Architecting high-throughput on-chain programs, seamless wallet integrations, and next-gen Web3 dApps.</p>
+  <h1>👻 Gm, I'm [Your Name / Alias] — Multi-Chain Blockchain Engineer</h1>
+  <p>Building high-performance smart contracts, DeFi protocols, and wallet integrations across <strong>Solana</strong> and <strong>Ethereum</strong>.</p>
 
   
   <a href="https://x.com">
@@ -8,6 +8,9 @@
   </a>
   <a href="https://sns.id">
     <img src="https://shields.io" alt="Solana Name Service" />
+  </a>
+  <a href="https://ens.domains">
+    <img src="https://shields.io" alt="Ethereum Name Service" />
   </a>
   <a href="https://t.me">
     <img src="https://shields.io" alt="Telegram" />
@@ -17,42 +20,50 @@
 ---
 
 ### ⚡ About Me
-- 🔭 **Currently building:** Non-custodial DeFi tooling and Phantom Wallet deep-link integrations on Solana.
-- 🛠️ **Core Focus:** Anchor smart contracts, Solana Actions & Blinks, SPL Token-2022 extensions, and transaction simulation.
-- 🏆 **Milestones:** [e.g., Colosseum Hackathon Finalist / Contributor to Solana OSS].
-- 🤝 **Open to:** Protocol audits, smart contract architecture, and full-stack dApp consulting.
+- 🔭 **Currently building:** Cross-chain liquidity tools and seamless Phantom multi-chain wallet integrations.
+- 🟣 **Solana Stack:** Anchor framework, Rust on-chain programs, SPL Token-2022, and Solana Actions / Blinks.
+- 🔷 **Ethereum Stack:** Gas-optimized Solidity smart contracts, Foundry testing suites, and EVM Layer-2 deployments.
+- 🛡️ **Security & Testing:** Fuzz testing with Trident & Foundry, transaction simulation, and smart contract auditing.
+- 🤝 **Open to:** Protocol architecture, smart contract engineering, and Web3 security reviews.
 
 ---
 
-### 🧰 Solana & Web3 Tech Stack
+### 🧰 Multi-Chain Tech Stack
 
-**On-Chain & Protocol**
+**Solana & SVM Ecosystem**
 ![Rust](https://shields.io)
 ![Solana](https://shields.io)
 ![Anchor](https://shields.io)
 ![SPL](https://shields.io)
 
-**Client, Wallet & Infra**
+**Ethereum & EVM Ecosystem**
+![Solidity](https://shields.io)
+![Ethereum](https://shields.io)
+![Foundry](https://shields.io)
+![Hardhat](https://shields.io)
+
+**Wallets, Client & Infrastructure**
+![Phantom](https://shields.io)
 ![TypeScript](https://shields.io)
 ![Next.js](https://shields.io)
-![Phantom](https://shields.io)
-![Helius](https://shields.io)
+![Viem](https://shields.io)
 
 ---
 
-### 🚀 Featured Solana & Phantom Projects
+### 🚀 Featured Multi-Chain Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Phantom One-Click Swap]** | Seamless dApp connecting Phantom Wallet with Jupiter Aggregator APIs. | `Next.js` `Phantom SDK` `TypeScript` |
-| **[Anchor Escrow Vault]** | Audited on-chain program supporting SPL Token-2022 transfers and PDAs. | `Rust` `Anchor` `LiteSVM` |
-| **[Solana Blink Generator]** | Interactive Solana Actions endpoint for tipping and NFT minting on X. | `Solana Kit` `Node.js` |
+| Project | Ecosystem | Description | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **[Phantom Multi-Chain Swap]** | `Solana` + `Ethereum` | Unified dApp connecting Phantom Wallet across Solana and EVM chains for cross-chain swaps. | `TypeScript` `Phantom SDK` `Next.js` |
+| **[Anchor Escrow & Vault]** | `Solana` | High-throughput PDA vault supporting SPL Token-2022 transfers and deterministic testing. | `Rust` `Anchor` `LiteSVM` |
+| **[Gas-Optimized EVM Staking]** | `Ethereum` | ERC-4626 tokenized vault with invariant fuzz testing and minimal proxy clones. | `Solidity` `Foundry` `Solady` |
+| **[Solana Blink & EVM Frame]** | `Multi-Chain` | Social transaction endpoints allowing one-click minting and tipping directly in feeds. | `Solana Kit` `Viem` `Node.js` |
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Metrics
 
 <div align="center">
-  <img height="165" src="https://vercel.app" />
-  <img height="165" src="https://vercel.app" />
+  <img height="165" src="https://vercel.app" alt="GitHub Stats" />
+  <img height="165" src="https://vercel.app" alt="Top Languages" />
 </div>
